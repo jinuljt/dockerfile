@@ -9,5 +9,5 @@ LABEL description="pip 使用国内镜像"
 RUN apt-get update && apt-get install -y python-pip
 
 # 指定pip使用国内镜像
-RUN mkdir ~/.pip
-COPY pip.conf ~/.pip/
+RUN mkdir /root/.pip
+COPY pip.conf /root/.pip/pip.conf
