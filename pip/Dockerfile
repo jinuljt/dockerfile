@@ -1,4 +1,4 @@
-FROM jinuljt/ubuntu:trusty
+FROM jinuljt/base:trusty
 
 MAINTAINER juntao liu <jinuljt@gmail.com>
 
