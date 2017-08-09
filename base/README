@@ -1,2 +1,2 @@
-base 基于官方ubuntu:trusty
-修改了apt sources为国内镜像(mirrors.163.com)
+base 基于官方ubuntu:latest
+修改了apt sources为国内镜像(mirrors.aliyun.com)

@@ -1,4 +1,4 @@
-FROM jinuljt/base:trusty
+FROM jinuljt/base:latest
 
 MAINTAINER juntao liu <jinuljt@gmail.com>
 

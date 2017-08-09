@@ -1,4 +1,4 @@
-FROM ubuntu:xenial
+FROM ubuntu:latest
 
 MAINTAINER juntao liu <jinuljt@gmail.com>
 
